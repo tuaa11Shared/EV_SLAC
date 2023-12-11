@@ -1,8 +1,3 @@
-/**
- * @file linuxUDP_portedV6.c
- * Copyright 2009-2018 The MathWorks, Inc.
- */
-
 #include "linuxUDP_portV6.h"
 #include <arpa/inet.h>
 #include <ifaddrs.h>
